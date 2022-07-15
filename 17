@@ -1,4 +1,4 @@
-//verificar números pares
+//verificar números pares entre dois valores
 
 var num1 = Number(prompt('Digite o primeiro número'))
 var num2 = Number(prompt('Digite o segundo número'))
