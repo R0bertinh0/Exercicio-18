@@ -1,3 +1,5 @@
+//tabuada
+
 var num1 = Number(prompt('Digite um número'))
 var m = 1
 
