@@ -9,12 +9,12 @@ while(ano < anoControle){
 
   if (ano % 400 === 0) {
     
-    alert(`${ano} é bissexto`);
+    alert(`O ano de ${ano} é bissexto`);
     break;
 
   } else if (ano % 4 === 0 && ano % 100 !== 0){
 
-    alert(`${ano} é bissexto`);
+    alert(`O ano de ${ano} é bissexto`);
     break
 
   }
